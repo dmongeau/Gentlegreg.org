@@ -1,0 +1,3 @@
+[submodule "app/Gregory"]
+	path = app/Gregory
+	url = git@github.com:dmongeau/Gregory.git
